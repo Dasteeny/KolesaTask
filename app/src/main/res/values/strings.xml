@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KolesaNews</string>
+    <string name="mainLabel">Категории</string>
+    <string name="sample">sample</string>
+    <string name="news">News</string>
+    <string name="title">Заголовок</string>
+    <string name="description">Краткое содержание</string>
+    <string name="date">Дата: </string>
+    <string name="source">Источник: </string>
+</resources>
